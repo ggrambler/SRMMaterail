@@ -1,2 +1,2 @@
-# SRMMaterail
+# SRMMaterial
 SRM College material
